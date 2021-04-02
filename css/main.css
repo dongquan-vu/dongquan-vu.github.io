@@ -459,8 +459,8 @@ footer .theme-by {
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
-  width: 80%;
-  height: 80%;
+  width: 50%;
+  height: 50%;
   opacity: 0;
   background: no-repeat center center;
   -webkit-background-size: cover;
