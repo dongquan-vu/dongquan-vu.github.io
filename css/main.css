@@ -384,8 +384,8 @@ footer .theme-by {
 }
 .post-image img {
   border-radius: 100px;
-  height: 192px;
-  width: 192px;
+  height: 150px;
+  width: 150px;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -454,8 +454,8 @@ footer .theme-by {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 51px; /* The small navbar is 50px tall + 1px border */
-  margin-bottom: 35px;
+  margin-top: 35px; /* The small navbar is 50px tall + 1px border */
+  margin-bottom: 20px;
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
