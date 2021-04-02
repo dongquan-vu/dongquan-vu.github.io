@@ -459,8 +459,8 @@ footer .theme-by {
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   opacity: 0;
   background: no-repeat center center;
   -webkit-background-size: cover;
@@ -561,8 +561,8 @@ footer .theme-by {
     display: block;
   }
   .intro-header.big-img {
-    width: 100%;
-    height: 220px;
+    width: 80%;
+    height: 180px;
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
@@ -574,7 +574,7 @@ footer .theme-by {
 }
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {
-    height: 200px;
+    height: 180px;
   }
 }
 
