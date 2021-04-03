@@ -110,10 +110,10 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "G-JYZ7QP6L8N"
+google_analytics: "UA-193658267-1"
 
 # Google Tag Manager ID
-gtm: "G-JYZ7QP6L8N"
+# gtm: "G-JYZ7QP6L8N"
 
 # Facebook App ID
 # fb_app_id: ""
