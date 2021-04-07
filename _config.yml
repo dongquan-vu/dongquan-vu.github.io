@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://dongquan-vu.github.io"
-baseurl: "http://dongquan-vu.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -17,7 +17,7 @@ baseurl: "http://dongquan-vu.github.io"
 title: Dong Quan Vu
 
 # Short description of your site
-description: Dong Quan Vu s personal website.
+description: Dong Quan Vu"'" s personal website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
