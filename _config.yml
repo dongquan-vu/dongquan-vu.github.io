@@ -58,7 +58,7 @@ author:
   github: dongquan-vu    # eg. daattali
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
-  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  google-plus: citations?user=wf3jDuUAAAAJ&hl=en   # eg. +DeanAttali or 109424658772469020925
   linkedin: dquanvu  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -77,7 +77,7 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  google-plus: false
+  google-plus: true
   github: true
   reddit: false
   linkedin: true
